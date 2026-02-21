@@ -37,10 +37,10 @@ global.errore = '⚠️ *Errore inatteso!* Usa il comando `.segnala _errore_` pe
 
 /*⭑⭒━━━✦❘༻🌐 LINK 🌐༺❘✦━━━⭒⭑*/
 
-global.repobot = 'https://github.com/Endy35-gif/ZynoBot2'
-global.gruppo = 'https://chat.whatsapp.com/LAjAXzrmZ2vF8jJTNy7lzq?mode=gi_t'
-global.canale = 'https://whatsapp.com/channel/0029Vb7DfzZ7Noa0LayyC90q'
-global.insta = 'https://www.instagram.com/zynobot.md?igsh=bHdvcG10bGFoeHo2'
+global.repobot = 'https://github.com/Endy35-gif/ZynoBot2',
+global.gruppo = 'https://chat.whatsapp.com/LAjAXzrmZ2vF8jJTNy7lzq?mode=gi_t',
+global.canale = 'https://whatsapp.com/channel/0029Vb7DfzZ7Noa0LayyC90q',
+global.insta = 'https://www.instagram.com/zynobot.md?igsh=bHdvcG10bGFoeHo2',
 
 /*⭑⭒━━━✦❘༻ MODULI ༺❘✦━━━⭒⭑*/
 
