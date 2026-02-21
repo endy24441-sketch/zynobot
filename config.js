@@ -24,7 +24,7 @@ global.owner = [
 global.mods = ['xxxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
 global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
 
-[ SYSTEM :: INFO BOT ]
+/*⭑⭒━━━✦❘༻ SYSTEM :: INFO BOT ༺❘✦━━━⭒⭑*/
 
 global.nomepack = '𝒁𝒚𝒏𝒐 ༒︎ 𝑩𝒐𝒕'
 global.nomebot = '𖣘 𝒁𝒚𝒏𝒐 𖣘'
