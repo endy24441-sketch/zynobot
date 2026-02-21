@@ -21,8 +21,8 @@ global.owner = [
   ['5511967898841', 'ksav', true],
   ['212775270361', 'ZynoBot', true],
 ]
-global.mods = ['212679283897', '212722652082', '393926427789', '5511967898841', '212775270361']
-global.prems = ['212679283897', '212722652082', '393926427789', '5511967898841', '212775270361']
+global.mods = ['xxxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
+global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
 
 [ SYSTEM :: INFO BOT ]
 
@@ -53,22 +53,22 @@ global.moment = moment
 /*⭑⭒━━━✦❘🗝️ API KEYS 🌍༺❘✦━━━⭒⭑*/
 
 global.APIKeys = { // le keys con scritto "varebot" vanno cambiate con keys valide
-    spotifyclientid: 'zynobot',
-    spotifysecret: 'zynobot',
-    browserless: 'zynobot',
-    screenshotone: 'zynobot',
-    screenshotone_default: 'zynobot',
-    tmdb: 'zynobot',
-    gemini:'zynobot',
-    ocrspace: 'zynobot',
-    assemblyai: 'zynobot',
-    google: 'zynobot',
-    googlex: 'zynobot',
-    googleCX: 'zynobot',
-    genius: 'zynobot',
-    unsplash: 'zynobot',
+       spotifyclientid: 'varebot',
+    spotifysecret: 'varebot',
+    browserless: 'varebot',
+    screenshotone: 'varebot',
+    screenshotone_default: 'varebot',
+    tmdb: 'varebot',
+    gemini:'varebot',
+    ocrspace: 'varebot',
+    assemblyai: 'varebot',
+    google: 'varebot',
+    googlex: 'varebot',
+    googleCX: 'varebot',
+    genius: 'varebot',
+    unsplash: 'varebot',
     removebg: 'FEx4CYmYN1QRQWD1mbZp87jV',
-    openrouter: 'zynobot',
+    openrouter: 'varebot',
     lastfm: '36f859a1fc4121e7f0e931806507d5f9',
 }
 
@@ -89,4 +89,4 @@ const reloadConfig = async () => {
   moduleCache.set(fileUrl, module, { ttl: 300 });
   return module;
 }
-watchFile(filePath, reloadConfig)
+watchFile(filePath, reloadConfig) 
