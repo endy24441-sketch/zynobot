@@ -13,34 +13,34 @@ const moduleCache = new NodeCache({ stdTTL: 300 });
 
 /*⭑⭒━━━✦❘༻☾⋆⁺₊✧ 𝓿𝓪𝓻𝓮𝓫𝓸𝓽 ✧₊⁺⋆☽༺❘✦━━━⭒⭑*/
 
-global.sam = ['393476686131',]
+global.endy = ['212679283897',]
 global.owner = [
-  ['393476686131', 'sam', true],
-  ['393511082922', 'gio', true],
-  ['393392645292', 'mavko', true],
-  ['67078163216', 'Felix', true],
-  ['393514357738', 'vare', true],
+  ['212679283897', 'Endy', true],
+  ['212722652082', 'medalis', true],
+  ['393926427789', 'mors', true],
+  ['5511967898841', 'ksav', true],
+  ['212775270361', 'ZynoBot', true],
 ]
-global.mods = ['393476686131', '393511082922', '67078163216']
-global.prems = ['393476686131', '393511082922', '67078163216']
+global.mods = ['212679283897', '212722652082', '393926427789', '5511967898841', '212775270361']
+global.prems = ['212679283897', '212722652082', '393926427789', '5511967898841', '212775270361']
 
-/*⭑⭒━━━✦❘༻🩸 INFO BOT 🕊️༺❘✦━━━⭒⭑*/
+[ SYSTEM :: INFO BOT ]
 
-global.nomepack = 'vare ✧ bot'
-global.nomebot = '✧˚🩸 varebot 🕊️˚✧'
-global.wm = 'vare ✧ bot'
-global.autore = '𝐬𝐚𝐦'
-global.dev = '⋆｡˚- 𝐬𝐚𝐦'
-global.testobot = `༻⋆⁺₊𝓿𝓪𝓻𝓮𝓫𝓸𝓽₊⁺⋆༺`
+global.nomepack = '𝒁𝒚𝒏𝒐 ༒︎ 𝑩𝒐𝒕'
+global.nomebot = '𖣘 𝒁𝒚𝒏𝒐 𖣘'
+global.wm = '𝒁𝒚𝒏𝒐 ༒︎ 𝑩ot'
+global.autore = '𝐄𝐧𝐝𝐲'
+global.dev = 'ت︎-𝐄𝐧𝐝𝐲'
+global.testobot = `༻⋆⁺₊𝔃𝔂𝓷𝓸𝓫𝓸𝓽₊⁺⋆༺`
 global.versione = pkg.version
 global.errore = '⚠️ *Errore inatteso!* Usa il comando `.segnala _errore_` per avvisare lo sviluppatore.'
 
 /*⭑⭒━━━✦❘༻🌐 LINK 🌐༺❘✦━━━⭒⭑*/
 
-global.repobot = 'https://github.com/realvare/varebot'
-global.gruppo = 'https://chat.whatsapp.com/bysamakavare'
-global.canale = 'https://whatsapp.com/channel/0029VbB41Sa1Hsq1JhsC1Z1z'
-global.insta = 'https://www.instagram.com/samakavare'
+global.repobot = 'https://github.com/Endy35-gif/ZynoBot2'
+global.gruppo = 'https://chat.whatsapp.com/LAjAXzrmZ2vF8jJTNy7lzq?mode=gi_t'
+global.canale = 'https://whatsapp.com/channel/0029Vb7DfzZ7Noa0LayyC90q'
+global.insta = 'https://www.instagram.com/zynobot.md?igsh=bHdvcG10bGFoeHo2'
 
 /*⭑⭒━━━✦❘༻ MODULI ༺❘✦━━━⭒⭑*/
 
@@ -53,22 +53,22 @@ global.moment = moment
 /*⭑⭒━━━✦❘🗝️ API KEYS 🌍༺❘✦━━━⭒⭑*/
 
 global.APIKeys = { // le keys con scritto "varebot" vanno cambiate con keys valide
-    spotifyclientid: 'varebot',
-    spotifysecret: 'varebot',
-    browserless: 'varebot',
-    screenshotone: 'varebot',
-    screenshotone_default: 'varebot',
-    tmdb: 'varebot',
-    gemini:'varebot',
-    ocrspace: 'varebot',
-    assemblyai: 'varebot',
-    google: 'varebot',
-    googlex: 'varebot',
-    googleCX: 'varebot',
-    genius: 'varebot',
-    unsplash: 'varebot',
+    spotifyclientid: 'zynobot',
+    spotifysecret: 'zynobot',
+    browserless: 'zynobot',
+    screenshotone: 'zynobot',
+    screenshotone_default: 'zynobot',
+    tmdb: 'zynobot',
+    gemini:'zynobot',
+    ocrspace: 'zynobot',
+    assemblyai: 'zynobot',
+    google: 'zynobot',
+    googlex: 'zynobot',
+    googleCX: 'zynobot',
+    genius: 'zynobot',
+    unsplash: 'zynobot',
     removebg: 'FEx4CYmYN1QRQWD1mbZp87jV',
-    openrouter: 'varebot',
+    openrouter: 'zynobot',
     lastfm: '36f859a1fc4121e7f0e931806507d5f9',
 }
 
