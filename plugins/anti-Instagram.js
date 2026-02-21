@@ -38,9 +38,9 @@ export async function before(m, { isAdmin, isPrems, isBotAdmin, conn }) {
     if (warnCount < warnLimit) {
 
       await conn.sendMessage(m.chat, {
-        text: `╔═══━─━─━─━─━─━─━═══╗
-   ⚡ 𝐍𝚵𝑿𝐒𝐔𝐒 • 𝐀𝐍𝐓𝐈𝐈𝐍𝐒𝐓𝐀
-╚═══━─━─━─━─━─━─━═══╝
+        text: `╔═══━━━✦━━━═══╗
+               🩸 𝐙𝚈𝐍𝐎 • 𝐀𝐍𝐓𝐈𝐈𝐆
+               ╚═══━━━✦━━━═══╝
 📡 LINK INSTAGRAM RILEVATO
 
 ⚠️ Avvertimento: ${warnCount}/${warnLimit}
