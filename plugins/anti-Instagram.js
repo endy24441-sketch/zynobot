@@ -46,7 +46,7 @@ export async function before(m, { isAdmin, isPrems, isBotAdmin, conn }) {
 ⚠️ Avvertimento: ${warnCount}/${warnLimit}
 🔹 Rimangono: ${remaining}
 
-Prossima violazione → espulsione dal Nexus.
+Prossima violazione → espulsione dal Zyno.
 ━━━━━━━━━━━━━━━━━━`
       });
 
@@ -56,12 +56,12 @@ Prossima violazione → espulsione dal Nexus.
       global.db.data.users[m.sender].warnReasons = [];
 
       await conn.sendMessage(m.chat, {
-        text: `╔═══━─━─━─━─━─━─━═══╗
-   ⚡ 𝐍𝚵𝑿𝐒𝐔𝐒 • 𝐏𝐔𝐍𝐈𝐙𝐈𝐎𝐍𝐄
-╚═══━─━─━─━─━─━─━═══╝
+        text: `╔═══🩸━━━━🩸═══╗
+              🩸 𝐙𝚈𝐍𝐎 • 𝐏𝐔𝐍𝐈𝐙𝐈𝐎𝐍𝐄
+               ╚═══🩸━━━━🩸═══╝
 💀 LIMITE SUPERATO
 
-🔹 Utente rimosso dal Nexus.
+🔹 Utente rimosso dal Zyno.
 ━━━━━━━━━━━━━━━━━━`
       });
 
