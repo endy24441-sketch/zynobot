@@ -41,7 +41,7 @@ handler.all = async function (m, {conn}) {
                     throw new Error('API Key Google non configurata');
                 }
                 
-                const systemPrompt = `Sei varebot, un assistente WhatsApp intelligente e amichevole, creato da sam.
+                const systemPrompt = `Sei zynobot, un assistente WhatsApp intelligente e amichevole, creato da endy.
 Regole fondamentali per le tue risposte:
 1. Mantieni le risposte brevi e concise (max 3-4 frasi)
 2. Adatta il tono in base al contesto:
