@@ -28,7 +28,7 @@ export async function before(m, { conn, groupMetadata }) {
 
   const type = m.messageStubType;
   let ppBuffer;
-  const vareb0t = 'https://i.ibb.co/hJW7WwxV/varebot.jpg';
+  const zynob0t = 'https://ibb.co/F42w17fg/zynobot.jpg';
 
   try {
     const ppUrl = await conn.profilePictureUrl(m.chat, 'image');
@@ -40,7 +40,7 @@ export async function before(m, { conn, groupMetadata }) {
       ppBuffer = Buffer.alloc(0);
     }
   }
-  const nomegp = groupMetadata.subject || 'vare ✧ bot';
+  const nomegp = groupMetadata.subject || 'zyno ✧ bot';
   const am = {
     21: 'NOME GRUPPO MODIFICATO',
     22: 'IMMAGINE GRUPPO MODIFICATA',
