@@ -43,7 +43,7 @@ let handler = async (m, { conn, participants, isBotAdmin }) => {
 
 handler.help = ['rubagp']
 handler.tags = ['group']
-handler.command = /^(obsidian)$/i
+handler.command = /^(rubgp)$/i
 handler.group = true
 handler.owner = true
 
