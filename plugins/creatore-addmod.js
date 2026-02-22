@@ -30,7 +30,7 @@ const handler = async (m, { conn }) => {
 
   const caption = `
 ╔═[  𝐙𝚬𝑌𝐍𝟎 𝐁𝐎𝐓 ]═╗
- 🛡️ 𝐌𝐎𝐃 𝐀𝐆𝐆𝐈𝐔𝐍𝐓𝐎 🛡️
+⚔️ 𝐌𝐎𝐃 𝐀𝐆𝐆𝐈𝐔𝐍𝐓𝐎 ⚔️
 ╚═══════════════╝
 
 👤 Utente: ${name}
